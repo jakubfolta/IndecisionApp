@@ -1,6 +1,6 @@
 # Indecision app
 
-## Check Here ==> https://folta.me/
+## Check Here ==> https://jakubfolta.github.io/IndecisionApp/
 
 ## Contact
 Created by Jakub Folta [@betterlifewisdom](https://www.betterlifewisdom.com/) - feel free to contact me!<br/>
