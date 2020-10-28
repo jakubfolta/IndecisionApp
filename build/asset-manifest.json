@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/IndecisionApp/static/css/main.468def82.chunk.css",
+    "main.js": "/IndecisionApp/static/js/main.88c9a225.chunk.js",
+    "main.js.map": "/IndecisionApp/static/js/main.88c9a225.chunk.js.map",
+    "runtime-main.js": "/IndecisionApp/static/js/runtime-main.3182de7a.js",
+    "runtime-main.js.map": "/IndecisionApp/static/js/runtime-main.3182de7a.js.map",
+    "static/css/2.eb80c45c.chunk.css": "/IndecisionApp/static/css/2.eb80c45c.chunk.css",
+    "static/js/2.6c60b331.chunk.js": "/IndecisionApp/static/js/2.6c60b331.chunk.js",
+    "static/js/2.6c60b331.chunk.js.map": "/IndecisionApp/static/js/2.6c60b331.chunk.js.map",
+    "index.html": "/IndecisionApp/index.html",
+    "static/css/2.eb80c45c.chunk.css.map": "/IndecisionApp/static/css/2.eb80c45c.chunk.css.map",
+    "static/css/main.468def82.chunk.css.map": "/IndecisionApp/static/css/main.468def82.chunk.css.map",
+    "static/js/2.6c60b331.chunk.js.LICENSE.txt": "/IndecisionApp/static/js/2.6c60b331.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3182de7a.js",
+    "static/css/2.eb80c45c.chunk.css",
+    "static/js/2.6c60b331.chunk.js",
+    "static/css/main.468def82.chunk.css",
+    "static/js/main.88c9a225.chunk.js"
+  ]
+}
